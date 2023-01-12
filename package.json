@@ -16,6 +16,10 @@
     "react-scripts": "^4.0.0",
     "react-spinners": "^0.9.0"
   },
+  "engines": {
+    "node": "16.16.0",
+    "npm": "8.14.4"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
